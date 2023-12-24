@@ -1,3 +1,25 @@
+**#About The Project**
+- Consits of 3 Sections: Men, Womens and Kids.
+- Add to Cart functionality and operations
+
+  **Concepts Covered**
+  - Navbar + CSS Styling
+  - React UseStates
+  - Javascript Ternary Operators
+  - Google Fonts
+  - Routes- React Router Dom
+  - React Props
+  - Utalizing JSON Data
+  - React Context API
+  - Scrolling to the top on click
+  - Cart Logic - Add and Remove
+  - Javascript Arrow Functions
+  - Javascript For Loops
+  - Spread Operators
+  - OnClick Functions
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
